@@ -9,7 +9,8 @@
 - 📕 Próximos aprendizados ...
 <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt=" texto datilografado"/><img align="center" alt="Gabriel-RTL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"><img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
----
+<br>
+<br>
 
 ## Tecnologias e Ferramentas 👩🏽‍💻
 <div style="display: inline_block">
@@ -27,7 +28,8 @@
  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
 
----
+<br>
+<br>
 
 ## Contato 📪
 
@@ -35,6 +37,7 @@
 <a rel="noreferrer noopener" target="_blank" href="https://api.whatsapp.com/send?phone=5516992822253"><img style="max-width: 100%" src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
 #### 📪 ma_isabella.miranda@hotmail.com
+<br>
 
 ---
 
