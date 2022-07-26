@@ -32,7 +32,7 @@
 ## Contato 📪
 
 <a rel="noreferrer noopener" target="_blank" href="https://www.linkedin.com/in/maria-isabella-miranda/"><img style="max-width: 100%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a rel="noreferrer noopener" target="_blank" href="mailto: misabella.miranda@hotmail.com"><img style="max-width: 100%" src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white"></a>
+<a rel="noreferrer noopener" target="_blank" href="misabella.miranda@hotmail.com"><img style="max-width: 100%" src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white"></a>
 <a rel="noreferrer noopener" target="_blank" href="https://api.whatsapp.com/send?phone=5516992822253"><img style="max-width: 100%" src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
 ---
@@ -45,3 +45,5 @@
 </div>
 
 ![Snake animation](https://github.com/MariaIsabellaMiranda/MariaIsabellaMiranda/blob/output/github-contribution-grid-snake.svg)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MariaIsabellaMiranda&label=Profile%20views&color=0e75b6&style=flat" alt="MariaIsabellaMiranda" /> </p>
