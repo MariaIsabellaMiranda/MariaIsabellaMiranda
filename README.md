@@ -1,6 +1,6 @@
 # Olá, eu sou Maria Isabella Miranda da Silva! 👋
 
-- 📚 Estudante de Desenvolvimento de Software FullStack, na Trybe;
+- 📚 Desenvolvedora de Software FullStack;
 - 👩🏽‍🎓 Em constante aprendizado;
 - 👩🏽‍💼 Estou em transição de carreira para uma área que sempre fui apaixonada;
 - 👨‍👩‍👧‍👧 Sou mãe da Sofia e Luna 💞 meus maiores tesouros e minha maior motivação;
