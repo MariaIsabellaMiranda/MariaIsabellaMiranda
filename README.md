@@ -6,7 +6,7 @@
 - 👨‍👩‍👧‍👧 Sou mãe da Sofia e Luna 💞 meus maiores tesouros e minha maior motivação;
 - ⚽ Apaixonada por esportes e 🎶música;
 - 🤜🏽🤛🏽 Sempre disposta a ajudar e resolver desafios;
-- 📕 Próximos aprendizados ...<img align="center" alt="Phyton" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" align="center" alt="Java" height="40" width="40"/>
+- 📕 Próximos aprendizados ...<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" align="center" alt="Java" height="40" width="40"/>
 
 ## Contato 📪
 
@@ -39,6 +39,7 @@
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img align="center" alt="My Sql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img align="center" alt="MongoDb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></a>
  <a href="https://mochajs.org/" target="_blank" rel="noreferrer"><img align="center" alt="Mocha" height="40" width="40" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="32" height="32"/></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img align="center" alt="Phyton" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
 </div>
 
 <br>
