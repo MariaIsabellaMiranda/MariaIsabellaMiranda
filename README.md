@@ -1,4 +1,4 @@
-# Olá, eu sou Maria Isabella Miranda da Silva! 👋
+# Olá, eu sou Maria Isabella! 👋
 
 - 📚 Desenvolvedora de Software FullStack;
 - 👩🏽‍🎓 Em constante aprendizado;
