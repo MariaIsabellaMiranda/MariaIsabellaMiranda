@@ -6,7 +6,7 @@
 - 👨‍👩‍👧‍👧 Sou mãe da Sofia e Luna 💞 meus maiores tesouros e minha maior motivação;
 - ⚽ Apaixonada por esportes e 🎶música;
 - 🤜🏽🤛🏽 Sempre disposta a ajudar e resolver desafios;
-- 📕 Próximos aprendizados ...<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" align="center" alt="Java" height="40" width="40"/>
+- 📕 Aprendendo no momento ...<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" align="center" alt="Java" height="40" width="40"/>
 
 ## Contato 📪
 
@@ -15,32 +15,50 @@
 
 #### 📪 ma_isabella.miranda@hotmail.com
 <br>
-<br>
 
-## Tecnologias e Ferramentas 👩🏽‍💻
-<div style="display: inline_block">
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+<h2 align="center">Tecnologias e Ferramentas 💻</h2>
+<table align="center"><tr><td valign="top" width="33%">
+
+
+### Linguagens & Ferramentas
+<div align="center">  
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
  <a href="https://github.com/" target="_blank" rel="noreferrer"><img align="center" alt="Git Hub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
+ <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"><img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img align="center" alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt=" texto datilografado"/></a>
+ <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img align="center" alt="Phyton" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img align="center" alt="NPM" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /><a/>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
   <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img align="center" alt="heroku" height="30" width="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></a>
-  <a href="https://jestjs.io/pt-BR/" target="_blank" rel="noreferrer"><img align="center" alt="Jest" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"></a>
- <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer"><img align="center" alt="Testing Library" height="40" width="40" src="https://raw.githubusercontent.com/testing-library/dom-testing-library/main/other/octopus.png"></a>
-  
+</div>
+ 
+ </td><td valign="top" width="33%">
+ 
+ 
+### Frontend  
+<div align="center">  
  <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"><img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
- <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"><img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img align="center" alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt=" texto datilografado"/></a>
  <a href="https://pt-br.reactjs.org/" target="_blank" rel="noreferrer"><img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img align="center" alt="Redux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"></a>
- 
- <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img align="center" alt="NodeJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
+ <a href="https://jestjs.io/pt-BR/" target="_blank" rel="noreferrer"><img align="center" alt="Jest" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"></a>
+ <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer"><img align="center" alt="Testing Library" height="40" width="40" src="https://raw.githubusercontent.com/testing-library/dom-testing-library/main/other/octopus.png"></a>
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend
+<div align="center">  
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img align="center" alt="NodeJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
   <a href="https://expressjs.com/pt-br/" target="_blank" rel="noreferrer"><img align="center" alt="Express" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="32" height="32"/></a>
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img align="center" alt="My Sql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img align="center" alt="MongoDb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></a>
  <a href="https://mochajs.org/" target="_blank" rel="noreferrer"><img align="center" alt="Mocha" height="40" width="40" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="32" height="32"/></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img align="center" alt="Phyton" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
 </div>
+
+</table> 
 
 <br>
 <br>
