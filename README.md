@@ -58,6 +58,8 @@
  <a href="https://mochajs.org/" target="_blank" rel="noreferrer"><img align="center" alt="Mocha" height="40" width="40" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="32" height="32"/></a>
 </div>
 
+</tr></td>
+
 </table> 
 
 <br>
@@ -71,7 +73,5 @@
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
 <br>
-
-![Snake animation](https://github.com/MariaIsabellaMiranda/MariaIsabellaMiranda/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MariaIsabellaMiranda&label=Profile%20views&color=0e75b6&style=flat" alt="MariaIsabellaMiranda" /> </p>
