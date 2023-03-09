@@ -6,7 +6,6 @@
 - 👨‍👩‍👧‍👧 Sou mãe da Sofia e Luna 💞 meus maiores tesouros e minha maior motivação;
 - ⚽ Apaixonada por esportes e 🎶música;
 - 🤜🏽🤛🏽 Sempre disposta a ajudar e resolver desafios;
-- 📕 Aprendendo no momento ...<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" align="center" alt="Java" height="40" width="40"/>
 
 ## Contato 📪
 
